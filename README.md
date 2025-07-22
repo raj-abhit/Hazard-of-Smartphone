@@ -18,11 +18,10 @@ Provide data-driven insights for intervention: Offer a comprehensive understandi
 
 This project leverages techniques such as correlation analysis and K-Means clustering to achieve its objectives. Understanding these patterns is crucial as excessive phone use among teenagers has been linked to sleep problems, lower academic performance, anxiety, and other mental health challenges.
 
-# 📊 Methodology & Analysis
-(This section would typically detail the dataset used, data preprocessing steps, and the specific implementation of correlation analysis and K-Means clustering. Since the provided text doesn't include these specifics, this is a placeholder.)
+
 
 # ⚙️ Technologies & Libraries
-(Based on the objectives and methods, the following technologies are likely used. You can expand this if you have more specific tools.)
+
 
 Python
 
@@ -35,4 +34,4 @@ Scikit-learn (for K-Means clustering and other machine learning utilities)
 Matplotlib / Seaborn (for data visualization)
 
 # 📈 Results & Insights
-(This section would present  findings, including the results of  correlation analysis, the characteristics of the identified clusters, and the overall insights gained regarding the impact of smartphone usage on teenagers' well-being.)
+This section would present  findings, including the results of  correlation analysis, the characteristics of the identified clusters, and the overall insights gained regarding the impact of smartphone usage on teenagers' well-being.
