@@ -33,5 +33,15 @@ Scikit-learn (for K-Means clustering and other machine learning utilities)
 
 Matplotlib / Seaborn (for data visualization)
 
-# 📈 Results & Insights
-This section would present  findings, including the results of  correlation analysis, the characteristics of the identified clusters, and the overall insights gained regarding the impact of smartphone usage on teenagers' well-being.
+
+# 📊 Model Evaluation
+The model's performance is rigorously assessed using standard classification metrics, which may include:
+
+Accuracy: Overall correctness of predictions.
+
+Precision: The proportion of positive identifications that were actually correct.
+
+Recall: The proportion of actual positives that were identified correctly.
+
+F1-score: The harmonic mean of precision and recall.
+
